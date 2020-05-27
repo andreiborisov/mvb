@@ -1,3 +1,6 @@
 .vagrant/
 *.box
 Brewfile.lock.json
+man
+mvb
+mvb.tar.gz
