@@ -45,7 +45,7 @@ vagrant init andreiborisov/macos-catalina
 Install the dependencies with [Homebrew](https://brew.sh) (recommended):
 
 ```shell
-curl https://raw.githubusercontent.com/andreiborisov/mvb/master/Brewfile -so Brewfile
+curl https://raw.githubusercontent.com/andreiborisov/mvb/main/Brewfile -so Brewfile
 brew bundle
 rm -f Brewfile Brewfile.lock.json
 brew gem install macinbox
