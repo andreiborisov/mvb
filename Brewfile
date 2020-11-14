@@ -1,5 +1,0 @@
-tap "homebrew/core"
-brew "brew-gem"
-brew "fish"
-cask "parallels"
-cask "vagrant"
